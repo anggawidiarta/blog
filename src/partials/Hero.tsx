@@ -1,3 +1,7 @@
+/* eslint-disable tailwindcss/no-custom-classname */
+// eslint-disable-next-line import/no-extraneous-dependencies
+import 'animate.css';
+
 import {
   GradientText,
   HeroAvatar,
@@ -16,7 +20,10 @@ const Hero = () => (
       description={
         <>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus{' '}
-          <a className="text-cyan-400 hover:underline" href="/">
+          <a
+            className="animate__animated animate__fadeInRight text-cyan-400 hover:underline"
+            href="/"
+          >
             malesuada
           </a>{' '}
           nisi tellus, non imperdiet nisi tempor at. Lorem ipsum dolor sit amet,{' '}
@@ -28,7 +35,7 @@ const Hero = () => (
       }
       avatar={
         <img
-          className="h-50 w-64"
+          className="h-50 animate__animated animate__fadeInRight w-64"
           src="src/programmer.png"
           alt="Avatar image"
           loading="lazy"
