@@ -1,9 +1,9 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: Unveiling the Depths of Client Side Rendering (CSR) vs Server Side Rendering (SSR)
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
-pubDate: 2020-02-05T00:00:00Z
-imgSrc: '/assets/images/image-post2.jpeg'
+title: Server Side Rendering (SSR) & Client Side Rendering (CSR)
+description: "Explore the differences that shape web development strategies. 💻🌐"
+pubDate: 2023-12-21T00:00:00Z
+imgSrc: '/assets/images/blog-csr.png'
 imgAlt: 'Image post 2'
 ---
 

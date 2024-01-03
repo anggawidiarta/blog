@@ -14,7 +14,7 @@ const Navbar = () => (
           icon={
             <img
               className="mr-1 h-10 w-10"
-              src="assets/images/nn_logo.svg"
+              src="/favicon.ico"
               alt="Nano Narrative Logo"
             />
           }
