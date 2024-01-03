@@ -30,8 +30,8 @@ const Hero = () => (
       }
       avatar={
         <img
-          className="h-50 animate__animated animate__fadeInRight w-64"
-          src="src/programmer.png"
+          className="animate__animated animate__fadeInRight w-64"
+          src="src/hero-img.svg"
           alt="Avatar"
           loading="lazy"
         />
