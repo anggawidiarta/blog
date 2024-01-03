@@ -19,18 +19,13 @@ const Hero = () => (
       }
       description={
         <>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus{' '}
+          Smiling from behind the screen! I'm{' '}
           <a
-            className="animate__animated animate__fadeInRight text-cyan-400 hover:underline"
+            className="text-cyan-400 hover:underline"
             href="/"
           >
-            malesuada
-          </a>{' '}
-          nisi tellus, non imperdiet nisi tempor at. Lorem ipsum dolor sit amet,{' '}
-          <a className="text-cyan-400 hover:underline" href="/">
-            consectetur
-          </a>{' '}
-          adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+            Angga Widiarta
+          </a>{' '}, a tech enthusiast and writer on this blog page. Discover my journey, thoughts, and knowledge about the digital world. Together, let's explore the inspiration and insights I share. Welcome to my world!"
         </>
       }
       avatar={
