@@ -37,7 +37,7 @@ const Hero = () => (
         <img
           className="h-50 animate__animated animate__fadeInRight w-64"
           src="src/programmer.png"
-          alt="Avatar image"
+          alt="Avatar"
           loading="lazy"
         />
       }

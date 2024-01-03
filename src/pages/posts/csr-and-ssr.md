@@ -1,10 +1,10 @@
 ---
 layout: '@/templates/BasePost.astro'
 title: Server Side Rendering (SSR) & Client Side Rendering (CSR)
-description: "Explore the differences that shape web development strategies. 💻🌐"
+description: "Explore the differences that shape web development strategies."
 pubDate: 2023-12-21T00:00:00Z
 imgSrc: '/assets/images/blog-csr.png'
-imgAlt: 'Image post 2'
+imgAlt: 'SSR & CSR'
 ---
 
 Hello, loyal readers! 😊 Today, we'll delve into an exciting topic in the world of web development – the comparison between Client Side Rendering (CSR) and Server Side Rendering (SSR). These two rendering concepts have their respective strengths and weaknesses; let's explore them further!
