@@ -9,8 +9,7 @@
     "preview": "astro preview",
     "clean": "rimraf dist",
     "lint": "eslint --ext .js,.jsx,.ts,.tsx,.astro .",
-    "build-types": "tsc --noEmit --pretty",
-    "prepare": "husky install"
+    "build-types": "tsc --noEmit --pretty"
   },
   "devDependencies": {
     "@astrojs/react": "^3.0.7",
@@ -41,7 +40,6 @@
     "eslint-plugin-simple-import-sort": "^7.0.0",
     "eslint-plugin-tailwindcss": "^3.13.0",
     "eslint-plugin-unused-imports": "^2.0.0",
-    "husky": "^8.0.3",
     "lint-staged": "^12.5.0",
     "path-browserify": "^1.0.1",
     "prettier": "^2.6.2",
