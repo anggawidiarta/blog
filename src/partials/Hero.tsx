@@ -31,7 +31,7 @@ const Hero = () => (
       avatar={
         <img
           className="animate__animated animate__fadeInRight w-64"
-          src="src/hero-img.svg"
+          src="assets/images/hero-img.svg"
           alt="Avatar"
           loading="lazy"
         />
