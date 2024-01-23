@@ -1,6 +1,6 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: "Astro: Framework that Illuminates the Web Development"
+title: "Optimizing Styles with Tailwind CSS and Headwind Extension"
 description: Learn about its origins, advantages, and considerations for optimal use in projects.
 pubDate: 2023-12-15T00:00:00Z
 imgSrc: '/assets/images/blog-astro.png'
