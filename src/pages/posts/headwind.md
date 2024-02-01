@@ -3,11 +3,11 @@ layout: '@/templates/BasePost.astro'
 title: "Optimizing Styles with Tailwind CSS and Headwind Extension"
 description: Learn about its origins, advantages, and considerations for optimal use in projects.
 pubDate: 2024-01-22T00:00:00Z
-imgSrc: '/assets/images/blog-astro.png'
+imgSrc: '/assets/images/headwind.png'
 imgAlt: 'Astro Framework'
 ---
 
-*Hello loyal readers, in the current era of web development, Tailwind, which is a CSS framework, is quite popular in use.*
+***Hello loyal readers, in the current era of web development, Tailwind, which is a CSS framework, is quite popular in use.***
 
 ## Understanding Tailwind CSS: A Brief Overview
 <p style="text-align:justify">Tailwind CSS is a utility-first CSS framework that streamlines the styling process by offering a set of pre-defined utility classes. Unlike traditional CSS frameworks, Tailwind encourages a unique approach where developers construct interfaces by applying small, atomic utility classes directly in their HTML markup.</p>
@@ -47,8 +47,6 @@ Having grasped the importance of organizing classes in Tailwind CSS, let's acqua
 
 ## Exploring Headwind: Your Class Sorting Companion
 Headwind is an extension specifically crafted for Visual Studio Code that effortlessly organizes Tailwind CSS classes. By leveraging Headwind, developers can maintain a clean, organized structure without manually rearranging classes.
-
-
 
 - ### Updates and Community
 
